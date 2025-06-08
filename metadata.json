@@ -1,0 +1,6 @@
+{
+  "name": "Sales Performance Dashboard",
+  "description": "A web application to visualize and track monthly sales performance data across different points of sale (POS).",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
